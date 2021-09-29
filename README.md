@@ -1,11 +1,17 @@
 # AUTHOR
 RODGERS JAYUGA
 # DESCRIPTION
-THIS PROJECT CONTAINS MY FAVORITE PHOTOGRAPHS.I WILL BE ADDING THEM AS I FIND NEW BEAUTIFUL AND EXCITING PHOTOGRAPHS
+THIS PROJECT CONTAINS MY FAVORITE PHOTOGRAPHS.I WILL BE ADDING NEW ONES ON THIS WEBSITE AS I FIND THEM. THE REQUIREMENT IS THAT THEY BE BEAUTIFUL AND EXCITING PHOTOGRAPHS.
+# TECHNOLOGIES USED
+*HTML
+*CSS
+# LIVELINK
+https://ipsyjayt.github.io/photography/
+
 # LICENSE
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2021] [RODGERS JAYUGA]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
