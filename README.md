@@ -10,6 +10,9 @@ THIS PROJECT CONTAINS MY FAVORITE PHOTOGRAPHS.I WILL BE ADDING NEW ONES ON THIS 
 # LIVELINK
 https://ipsyjayt.github.io/photography/
 
+# PROJECT SET UP
+The project is set up on github pages and can be viewed by visiting the livelink
+
 # LICENSE
 MIT License
 
